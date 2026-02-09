@@ -2,7 +2,7 @@
 a collaboration agreement 
 MUSIC SPLIT AGREEMENT 
 
-This Split Agreement (“Split Sheet”) confirms the ownership, income splits, and optional buyout terms for the musical work(s) listed below (the “Work(s)”). This Split Sheet is binding and supplements the governing Collaboration Agreement.
+This Split Agreement (“Split Sheet”) confirms the ownership, income splits, and terms for the musical work(s) listed below (the “Work(s)”). This Split Sheet is binding and supplements the governing Collaboration Agreement.
 
 WORK INFORMATION
 
@@ -12,25 +12,16 @@ Date Created: ________________________________________
 
 PARTIES
 
-Publisher:
-CharlesDub Audio
-
 Primary Artist / Master Administrator:
 SubbbanK (pronounced “Sub Bank”)
 
-Collaborating Artist:
+Collaborating Artist / Primary Artist:
 [Legal Name / Artist Name]
 
-PUBLISHING SPLITS (COMPOSITION)
-Party	Role	Publishing Share
-CharlesDub Audio	Publisher	100%
-SubbbanK	Producer / Artist	0%
-Collaborating Artist	Contributor	0%
+Publisher:
+CharlesDub Audio
 
-Total Publishing: 100%
 
-All publishing rights are owned exclusively by CharlesDub Audio.
-Collaborating Artist expressly waives any publishing ownership or income.
 
 MASTER SPLITS (SOUND RECORDINGS)
 
@@ -44,6 +35,17 @@ Collaborating Artist	50%
 Party	Master Ownership
 SubbbanK	75%
 Collaborating Artist	25%
+
+PUBLISHING SPLITS (COMPOSITION)
+Party	Role	Publishing Share
+CharlesDub Audio	Publisher	100%
+SubbbanK	Producer / Artist	0%
+Collaborating Artist	Contributor	0%
+
+Total Publishing: 100%
+
+All publishing rights are owned exclusively by CharlesDub Audio.
+Collaborating Artist expressly waives any publishing ownership or income.
 
 Master Administration:
 Regardless of ownership percentage, SubbbanK retains exclusive authority to administer, distribute, license, and monetize the Masters worldwide.
