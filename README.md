@@ -1,6 +1,6 @@
 # Collabagreement
 a collaboration agreement 
-MUSIC SPLIT AGREEMENT (WITH OPTIONAL MASTER BUYOUT)
+MUSIC SPLIT AGREEMENT 
 
 This Split Agreement (“Split Sheet”) confirms the ownership, income splits, and optional buyout terms for the musical work(s) listed below (the “Work(s)”). This Split Sheet is binding and supplements the governing Collaboration Agreement.
 
